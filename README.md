@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ken! 
-  # About me
+# About me
 <h2>- 🌱 I’m currently learning React and TypeScript.</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
