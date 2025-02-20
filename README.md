@@ -1,7 +1,8 @@
 <h1>Hi, I'm Ken! 
 <h2> About me 
 - 🌱 I’m currently learning React and TypeScript.
-- 💼 I'm a Senior High School Student learning how to code.
+
+  - 💼 I'm a Senior High School Student learning how to code.
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
