@@ -1,3 +1,1 @@
-# kenken.github.io
-
-# hi
+# Hi, Im Ken Ordas
