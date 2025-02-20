@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ken! 
-<h2> About me 
+<h2> About me <h2>
   
 - 🌱 I’m currently learning React and TypeScript.
 - 💼 I'm a Senior High School Student learning how to code.
